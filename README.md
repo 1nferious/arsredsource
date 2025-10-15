@@ -1,6 +1,6 @@
 # ARS.RED Source from Nov 14 2024
 
-Enjoy and use this as a learning environment :)
+Enjoy and use this as a learning environment :) https://ars.red/
 
 
 # Credits
